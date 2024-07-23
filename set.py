@@ -30,6 +30,12 @@ class2 = {"kam","dham","akshay","alok","anand","dham"}
 classcombined = class1.symmetric_difference(class2)
 print(classcombined)
 
+call1 = {"akshay","anand","ok"}
+call2 = {"akshay","anand","alok"}
+callcombined = call1.symmetric_difference(call2)
+print(callcombined)
+
+
 
 
 
